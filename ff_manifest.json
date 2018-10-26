@@ -7,7 +7,7 @@
   },
   "description": "Quickly check your Checkvist without leaving the page, or open Checkvist in Firefox sidebar",
   "icons": {
-    "128": "favicon.png"
+    "129": "favicon.png"
   },
   "name": "Checkvist",
 
@@ -17,10 +17,6 @@
     "default_icon": "favicon.png"
   },
   "permissions": [
-    "tabs",
-    "bookmarks",
-    "http://*.google.com/",
-    "https://*.google.com/"
   ],
-  "version": "1.0.6"
+  "version": "1.0.7"
 }
