@@ -9,15 +9,11 @@
 
    "description": "Quickly check your Checkvist without leaving the page.",
    "icons": {
-      "128": "favicon.png"
+      "129": "favicon.png"
    },
    "name": "Checkvist",
 
   "permissions": [
-    "tabs",
-    "bookmarks",
-    "http://*.google.com/",
-    "https://*.google.com/"
   ],
   "version": "1.0.5"
 }
