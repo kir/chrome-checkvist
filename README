@@ -3,7 +3,10 @@ such as collaboration, import/export and so on. The Checkvist Chrome
 extension allows you to easily check and interact with your Checkvist
 account without interrupting your workflow by opening a new tab.
 
-changelog:
+Changes:
+
+2019-07-23 v1.0.8
+Firefox: add keyboard shortcut for opening Firefox sidebar
 
 2018-10-26 v1.0.5
 Remove non-required permissions from manifest file, release Firefox version of the extension
