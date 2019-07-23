@@ -16,7 +16,14 @@
     "default_panel": "sidebar.html",
     "default_icon": "favicon.png"
   },
+  "commands": {
+    "_execute_sidebar_action": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+X"
+      }
+    }
+  },
   "permissions": [
   ],
-  "version": "1.0.7"
+  "version": "1.0.8"
 }
