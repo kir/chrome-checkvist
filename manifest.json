@@ -12,6 +12,9 @@
   },
   "name": "Checkvist",
 
+  "permissions": [
+  ],
+
   "sidebar_action": {
     "default_title": "Checkvist",
     "default_panel": "sidebar.html",
@@ -24,5 +27,5 @@
       }
     }
   },
-  "version": "1.0.10"
+  "version": "1.0.11"
 }
